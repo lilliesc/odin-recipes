@@ -1,1 +1,2 @@
 # odin-recipes
+This is the my first ever project that covers the basics of HTML i've learnt so far. My Project has a main page which contains links to 3 other pages. The project also contains images, lists, text representation and different elements and tags.
