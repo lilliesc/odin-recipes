@@ -1,0 +1,23 @@
+body{
+  background-color: lightpink;
+  color: grey;
+  font-size: 25px;
+}
+div {
+  padding: 10px;
+  margin: 15px;
+}
+
+.main{
+  text-decoration: underline;
+  
+}
+img{
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}
+
+.content{
+font-weight: bolder;
+}

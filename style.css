@@ -1,0 +1,24 @@
+*{
+  box-sizing: content-box;
+}
+h1{
+  text-transform: uppercase;
+}
+ul > li {
+  display: inline-block;
+}
+
+ul > li > a {
+  text-decoration: none;
+  padding-left: 20px;
+}
+ul > li > a :hover{
+  c
+}
+a:hover{
+  color: pink;
+}
+
+a:active{
+  color: yellow;
+}

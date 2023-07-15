@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Pangolin', cursive;
+  background-color: rgb(219, 236, 250);
+  color: brown;
+}
+
+h1{
+  text-decoration: underline;
+  color: rgb(97, 204, 204);
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+
+img{
+  height: 400px;
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+
+h3,h4{
+  font-weight: bold;
+  color: rgb(168, 105, 228);
+}
+p{
+  font-style: italic;
+  color: rgb(127, 165, 255);
+}

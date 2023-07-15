@@ -1,0 +1,25 @@
+*{
+  background-color: beige;
+  color: rgb(31, 30, 30);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.main {
+  text-align: center;
+}
+#img{
+  display: inline-block;
+}
+img{
+  height: 400px;
+  width: 400px;
+  display: block;
+  border-radius: 20px;
+}
+ul > li {
+  list-style: circle;
+}
+a:active {
+  background-color: blue;
+  color: yellow;
+}
